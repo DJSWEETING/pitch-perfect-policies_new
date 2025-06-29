@@ -1,8 +1,25 @@
-# Welcome to Project Pitch Perfect Policies
+# Welcome to Flawless Pitch
 
-This repository hosts our public-facing Privacy Policy and Terms of Use.
+**Empower Every Voice. From the Classroom to the Living Room.**
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Use](terms-of-use.md)
+Flawless Pitch is your all-in-one vocal training, rhythm development, and music education platform.
 
-These documents are required for app store submissions and public transparency.
+---
+
+### 🚀 Get Started
+
+- [Request a Demo](https://forms.gle/example) *(link to your demo form)*
+- [Privacy Policy](https://flawlesspitch.net/privacy-policy)
+- [Terms of Use](https://flawlesspitch.net/terms-of-use)
+
+---
+
+### 🎶 Key Features
+- Real-time pitch detection and feedback
+- Built-in metronome and rhythm training
+- Genre-based learning: Gospel, Jazz, Soul, Opera, and more
+- For students, teachers, institutions, and solo learners
+
+---
+
+Visit [https://flawlesspitch.net](https://flawlesspitch.net) regularly for updates!
